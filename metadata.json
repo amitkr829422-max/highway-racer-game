@@ -1,0 +1,6 @@
+{
+  "name": "Highway Racer - 2D Racing Game",
+  "description": "High-speed 2D vertical scrolling highway racing game featuring 5 upgradeable cars, 20 challenging levels, responsive touch/keyboard controls, dynamic traffic AI, and rich arcade sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
